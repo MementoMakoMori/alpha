@@ -1,4 +1,4 @@
-#alpha
+# alpha
 a simple, draggable alphabet for remote teaching
 
 on Zoom:
